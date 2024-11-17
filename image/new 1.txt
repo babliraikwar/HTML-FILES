@@ -1,0 +1,9 @@
+creat table users
+(
+id int unsigned,
+name vaechar(100),
+email vaechar(150),
+password vaechar(100),
+contect vaechar(15),
+address text,
+)
